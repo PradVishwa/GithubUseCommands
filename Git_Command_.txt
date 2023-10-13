@@ -1,0 +1,8 @@
+1. git status (Check Git Repository) 
+2. git init	(Make Git Repository)
+3. git add --a	(To Add all File at a time) 
+4. git commit -m  (one time commit)
+5. rm -rf .git   (DELETE .git Repository)  (----> This command is use to Delete any Folder(Repository))
+6. Shift-Ins ---> is use to past in git terminnal
+7. PWD (present Working Directory)
+8. 
