@@ -13,4 +13,4 @@
 13  When we want to ignore outer directory then we write /directory name/ in .git ignore file 
 14. git deff ---> compare with working directory to staging area
 15. git diff --staged ---->  Compare with old commit to current staging area 
-16. 
+16. Ignored Staging ---> git -a -m "Commit here" 
