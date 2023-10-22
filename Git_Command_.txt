@@ -5,7 +5,7 @@
 5. rm -rf .git   (DELETE .git Repository)  (----> This command is use to Delete any Folder(Repository))
 6. Shift-Ins ---> is use to past in git terminnal
 7. PWD (present Working Directory)
-8. git log  --->(Version Status view all)
+8. git log  --->(view all Commit)---> 'Q' press to exit log
 9. .ignore file create (touch file_name.extention)
 10. Which file or directory are ignored then we write file_with extension in .gitignore file
 11. When multiple file are ignored with same extension then we write (*. extension) in .gitignore file.
@@ -13,4 +13,6 @@
 13  When we want to ignore outer directory then we write /directory name/ in .git ignore file 
 14. git deff ---> compare with working directory to staging area
 15. git diff --staged ---->  Compare with old commit to current staging area 
-16. Ignored Staging ---> git -a -m "Commit here" 
+16. Ignored Staging (Staging Area skiping) ---> git commit -a -m "Commit here" 
+17. git rm ------>(remove file)
+18. git mv  old_filename new filename ----------> (rename file);
