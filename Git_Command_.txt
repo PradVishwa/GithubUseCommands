@@ -31,4 +31,6 @@
 	ii.	SSH and GPG Keys-> New SSH Keys
 	iii. 	We search SSH key Github On google-> open First Website->then follow the Rules
 	iv. 	after Follow the rule Your SSH Keys Has been create Successful.
-	v.	Then We Copy the key using (tail ~/.ssh/_Which id You Gererate SSH Key_.pub)
+	v.	Then We Copy the key using (tail ~/.ssh/_Which id You Gererate SSH Key_.pub) (this is optional)
+	vi.	and then we add the SSH key on Github.
+31. git puss -u _remote name_ master
