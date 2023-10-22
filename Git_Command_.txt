@@ -16,3 +16,19 @@
 16. Ignored Staging (Staging Area skiping) ---> git commit -a -m "Commit here" 
 17. git rm ------>(remove file)
 18. git mv  old_filename new filename ----------> (rename file);
+19. git log -p --> (this command is use to show all commit with changes)
+20. git log --staat (to show all commit in shorts view)
+21. git log --pretty=oneline (view commit in one line )
+22. git log --pretty=short (commit view in shorts)
+23. git log --pretty=full (to view full commit)
+24. git restore --staged <file name> (unstage the file)
+25. git checkout -- file_name (to undo the information on file)
+26. git checkout -f (to back aur direct aur file )(jo kuchh modification huwa hai usako aap nhi Krna chahte ho
+27. git remote add _remote_name_ remote_website_location(address)
+28. git remote -v (To view fetch/Pull location link)
+29. 	Before Puss The file or Project on Github we change the some setting on github account (only for new account)
+30.	i.	Go to account Setting
+	ii.	SSH and GPG Keys-> New SSH Keys
+	iii. 	We search SSH key Github On google-> open First Website->then follow the Rules
+	iv. 	after Follow the rule Your SSH Keys Has been create Successful.
+	v.	Then We Copy the key using (tail ~/.ssh/_Which id You Gererate SSH Key_.pub)
